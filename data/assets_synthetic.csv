@@ -1,0 +1,16 @@
+hostname,product,version,criticality
+web-01,Apache Log4j 2,2.14.1,high
+web-02,Apache HTTP Server,2.4.49,high
+app-01,Apache Struts 2,2.3.31,high
+app-02,WordPress,5.8.2,medium
+proxy-01,nginx,1.20.1,medium
+mail-01,Microsoft Exchange Server,2019 CU11,critical
+ws-01,Windows Server,2019,critical
+ws-02,Windows Server,2016,high
+db-01,PostgreSQL,13.4,high
+db-02,MySQL,8.0.26,high
+vpn-01,Citrix NetScaler ADC,13.1,critical
+fw-01,Cisco IOS XE,17.3,critical
+dev-01,GitLab CE,14.1.2,medium
+dev-02,XZ Utils,5.6.0,medium
+lib-01,OpenSSL,1.1.1k,high
